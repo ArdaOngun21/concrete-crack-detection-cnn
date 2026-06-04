@@ -150,7 +150,7 @@ Steps:
 
 ## Kaggle Notebook
 
-Kaggle notebook link: Add your Kaggle notebook link here
+Kaggle notebook link: https://www.kaggle.com/code/ardaongun/concrete-crack-detection-cnn
 
 ## Author
 
