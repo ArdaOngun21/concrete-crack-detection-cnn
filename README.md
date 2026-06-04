@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is developed for the Machine Learning course Phase 2 submission. The goal is to build a CNN based image classification system that detects whether a concrete surface image contains a visible crack or not.
+This project is developed for the Machine Learning course. The goal is to build a CNN based image classification system that detects whether a concrete surface image contains a visible crack or not.
 
 The project uses a public image dataset and compares a custom CNN model with a transfer learning model based on MobileNetV2. The implementation includes dataset loading, preprocessing, data augmentation, model training, evaluation, confusion matrices, classification reports, model comparison, and Grad CAM explainability.
 
