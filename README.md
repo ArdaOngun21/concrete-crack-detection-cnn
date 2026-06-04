@@ -152,8 +152,11 @@ Steps:
 
 Kaggle notebook link: https://www.kaggle.com/code/ardaongun/concrete-crack-detection-cnn
 
+The Kaggle notebook was saved after a successful full run. It includes executed code outputs, model training results, evaluation metrics, confusion matrices, training curves, model comparison, and Grad CAM visualizations.
+
+
 ## Author
 
 Arda Ongun
 
-Machine Learning Course Phase 2 Project
+Machine Learning Course Project
